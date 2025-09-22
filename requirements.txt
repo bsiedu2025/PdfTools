@@ -1,0 +1,12 @@
+streamlit>=1.30.0
+aspose-words>=24.7.0
+pypdf>=4.0.0
+Pillow>=9.0.0
+streamlit-sortables>=0.1.0
+PyMuPDF>=1.23.0
+streamlit-drawable-canvas>=0.9.3
+rembg>=2.0.50
+onnxruntime>=1.15.0
+streamlit-webrtc
+openai-whisper
+matplotlib
